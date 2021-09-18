@@ -1,0 +1,25 @@
+.instruction{
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px royalblue;
+}
+.NOTE{
+    font-size: 15px;
+    color: black;
+}
+.harry{
+    font-size: 15px;
+    color: blue;
+    background-color: goldenrod;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    position: fixed;
+}
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+    border: 5px solid grey;
+}
